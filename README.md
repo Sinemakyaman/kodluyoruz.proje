@@ -45,8 +45,8 @@ Soru 1: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaların
        / \
       2    8
     /   \    \ 
-  1      4     9
-/       /  \
+   1      4     9
+ /       /  \
 0      3    5   
               \ 
                 6
