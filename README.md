@@ -36,8 +36,11 @@ Merge Sort her zaman O(nLogn) zaman karmaşıklığına sahiptir<br>
 # Proje 3: Binary Search Tree <br>
 Soru 1: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.<br>
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb. <br>
- Root 7'dir sağında 8 ve 9 bulunur <br>
-       
+ Root 7'dir sağında 8 ve 9 bulunur, solunda 2 bulunur <br>
+  2 nin solunda 1 ve sıfır sağında 4 bulunur<br> 
+  4 ün solunda 3 , sağında 5 ve 6 bulunur<br>
+   5 in sağında ise 6 vardır. <br>
+   
         7
        / \
       2    8
@@ -47,6 +50,7 @@ Soru 1: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaların
 0      3    5   
               \ 
                 6
+
 
 
 
